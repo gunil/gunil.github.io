@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "자바스크립트 스터디"
+date:   2015-02-02 11:11:25
+categories: post js
+tags: featured
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+---
+## 자바스크립트 기본<br><br>
+
+1. [실행방법과 실습환경](http://opentutorials.org/course/743/4646) `기본`
+2. [숫자와 문자](http://opentutorials.org/course/743/4647) `기본`
+3. [변수](http://opentutorials.org/course/743/4673) `기본`
+4. [주석](http://opentutorials.org/course/743/6470) `기본`
+5. [줄바꿈과 여백](http://opentutorials.org/course/743/6471) `기본`
+6. [비교](http://opentutorials.org/course/743/4722) `기본`
+7. [조건문](http://opentutorials.org/course/743/4724) `기본`
+8. [반복문](http://opentutorials.org/course/743/4728) `기본`
+9. [함수](http://opentutorials.org/course/743/4729) `기본`
+10. [배열](http://opentutorials.org/course/743/4736) `기본`
+11. [객체](http://opentutorials.org/course/743/6491) `기본`
+12. [모듈](http://opentutorials.org/course/743/4750) `참고자료`
+13. [UI와 API 그리고 문서보는 법](http://opentutorials.org/course/743/6533) `참고자료`
+14. [정규표현식](http://opentutorials.org/course/743/6580) `참고자료`
+
+## 자바스크립트 기본 - 리마인드
+1. [JavaScript Part1](http://nigayo.github.io/page/lecture/basic/6.html) `기본`
+2. [JavaScript Part2](http://nigayo.github.io/page/lecture/basic/7.html) `기본`
+3. [AJAX](http://nigayo.github.io/page/lecture/basic/10.html) `기본`
+
+  > [NEXT 숙제, 실습 js 파일 다운로드(리마인드, 이벤트)](/assets/files/next_source.zip)
+
+## codecademy 코드 실습
+- [javascript 한글](http://www.codecademy.com/en/tracks/javascript-ko)
+
+## 이벤트
+1. [DOM & Event Basic](http://nigayo.github.io/page/lecture/basic/8.html) `기본`
+2. [DOM & Event Advanced](http://nigayo.github.io/page/lecture/basic/9.html) `기본`
+  - [이벤트 기본동작 취소](http://opentutorials.org/course/1375/6769) `기본`
+3. [jQuery 이벤트](http://opentutorials.org/course/1375/6862) `참고자료`
+4. [jQuery 이벤트 > on API 사용법](http://opentutorials.org/course/1375/6888) `참고자료`
+
+## 함수지향
+1. [유효범위](http://opentutorials.org/course/743/6495) `기본`
+2. [값으로서의 함수와 콜백](http://opentutorials.org/course/743/6508) `심화`
+3. [클로저](http://opentutorials.org/course/743/6544) `심화`
+4. [arguments](http://opentutorials.org/course/743/6548) `심화`
+5. [함수호출](http://opentutorials.org/course/743/6550) `심화`
+
+## 객체지향 프로그래밍
+1. [객체지향 프로그래밍](http://opentutorials.org/course/743/6553) `심화`
+2. [생성자와 new](http://opentutorials.org/course/743/6570) `심화`
+3. [전역객체](http://opentutorials.org/course/743/6577) `심화`
+4. [this](http://opentutorials.org/course/743/6571) `심화`
+5. [상속](http://opentutorials.org/course/743/6572) `심화`
+6. [prototype](http://opentutorials.org/course/743/6573) `심화`
+7. [표준 내장 객체의 확장](http://opentutorials.org/course/743/6475) `심화`
+8. [Object](http://opentutorials.org/course/743/6578) `심화`
+9. [데이터 타입](http://opentutorials.org/course/743/6579) `심화`
+10. [참조](http://opentutorials.org/course/743/6507) `심화`
+
+## 스터디 추가제공 자료
+### 실습 editor
+1. [codepen](http://codepen.io/)
+  > 실시간으로 바로 적용 코드를 확인 할 수 있다.
+  > 로그인 시 내가 작성한 코드를 저장할 수 있다. (url 정보가 히스토리로 남아 있음, 내 계정에서 확인 할 수 있음)
+  
+2. [jsbin](http://jsbin.com/?html,output)
+  > 실시간으로 바로 적용 코드를 확인 할 수 있다.
+  > github 계정으로 로그인 할 수 있다.
+  > 기능이 조금 복잡함 
+  
+3. html, js 파일을 생성하여 로컬에서 확인해도 됩니다.
+
+### javascript 추가자료
+1. [MDN - javascript](https://developer.mozilla.org/ko/learn/javascript)
+  > 각 단계별 javascript 공부자료 (영문), 예제들만 봐도 대충 어떤 내용인지 알 수 있음
+  
+2. [javascript - Garden (javascript 심화내용)](http://bonsaiden.github.io/JavaScript-Garden/ko/)
+  > 심도있고 유용한 javascript 정보가 있는 사이트
+
+3. [MDN - 개발자를 위한 웹 기술 (javascript), 읽을거리](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+

@@ -3,7 +3,6 @@ layout: post
 title:  "블로그 포스팅 테스트"
 date:   2014-12-24 12:44:25
 categories: post test
-tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
 #Mediator Formats and CSS features
